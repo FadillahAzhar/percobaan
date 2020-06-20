@@ -6,5 +6,12 @@ My Plan
   >Muhadasah
   >Khot
 -Geodetic and Geomatic Engineer Expert
+  >2020
+    *Belajar Arcgis/Qgis
+    *Belajar Matlab
 -Web Developer Expert
--Cumlaude
+  >2020 expert front-end :
+    *Algoritma dan struktur data Javascript (sertif dari freecodecamp)
+    *Bootstrap (sertif dari freecodecamp)
+    *React (sertif dari freecodecamp)
+-Cumlaude di ITB
