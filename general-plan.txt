@@ -3,4 +3,8 @@ My Plan
 -Bahasa Arab jago
 -Geodetic and Geomatic Engineer Expert
 -Web Developer Expert
+  >2020 expert front-end :
+    *Algoritma dan struktur data Javascript (sertif dari freecodecamp)
+    *Bootstrap (sertif dari freecodecamp)
+    *React (sertif dari freecodecamp)
 -Cumlaude
